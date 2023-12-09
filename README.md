@@ -1,1 +1,1 @@
-# Krieolin Honours
+This project contains a few of the first version scripts of the Unity A.I 2D game, note these are not the final version of the games scripts as I have chosen not to add those. Here is a video of the project: https://youtu.be/j76D1OMVsFg
